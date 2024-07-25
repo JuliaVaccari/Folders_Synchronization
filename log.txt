@@ -1,0 +1,8 @@
+2024-07-25 16:32:33,707 [INFO]: Start with parameters:
+source:source
+replica:replica
+log:log.txt
+time_interval:60
+
+2024-07-25 16:32:33,709 [INFO]: folder_1 has been copied.
+2024-07-25 16:32:33,709 [INFO]: folder_2 has been copied.
